@@ -20,6 +20,8 @@
 ### Requisitos Tecnicos (OBLIGATORIOS)
 
 * Nombres completos, RUT y carrera en primeras 5 líneas de la clase ***main***.
+* ***TODOS*** los talleres deben ser realizado mediante un repositorio de GitHub creado por los alumnos. No se aceptaran talleres que no tengan su repositorio correspondiente.
+* El codigo debe estar correctamente documentado en cada funcion que se utiliza.
 
 ### Entrega
 
