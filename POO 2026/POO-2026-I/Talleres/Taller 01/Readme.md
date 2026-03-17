@@ -80,7 +80,7 @@ Que deseas realizar?
 5) Salir.
 ```
 ```
-3
+2
 ```
 ```
 Cual actividad deseas modificar?
