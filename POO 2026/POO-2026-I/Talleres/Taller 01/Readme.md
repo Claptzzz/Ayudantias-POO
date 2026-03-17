@@ -192,6 +192,7 @@ Que deseas realizar?
 2) ***NO*** se pueden utilizar colecciones en este taller, solo vectores (int[] vectorDeNumeros).
 3) Se permite el uso de librerias basicas (Scanner, BufferedWrite, etc...) pero nada de maps() o librerias no vistas en clase. Al menos que el ayudante de talleres les de el visto bueno en caso de consulta.
 4) Al agregar actividades o modificar usuarios debe existir persistencia en los datos modificados, osea modificar los archivos mediante el codigo.
+5) Se debe considerar que la cantidad de actividades no seran más de 300 actividades.
 
 ## Consideraciones
 

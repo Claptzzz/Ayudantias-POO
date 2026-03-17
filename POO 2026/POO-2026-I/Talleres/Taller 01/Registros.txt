@@ -1,0 +1,200 @@
+Martin;01/03/2026;4;ser therian
+Catalina;01/03/2026;6;ser Batman por las noches
+Estefania;01/03/2026;3;investigar las cutiemarks
+Martin;02/03/2026;2;programar
+Catalina;02/03/2026;1;Ver reels
+Estefania;02/03/2026;2;Ver mlp
+Martin;03/03/2026;5;ser therian
+Catalina;03/03/2026;5;ser Batman por las noches
+Estefania;03/03/2026;4;investigar las cutiemarks
+Martin;04/03/2026;1;Ver jujutsu
+Catalina;04/03/2026;3;estudiar
+Estefania;04/03/2026;1;Ver reels
+Martin;05/03/2026;3;ser therian
+Catalina;05/03/2026;7;ser Batman por las noches
+Estefania;05/03/2026;5;investigar las cutiemarks
+Martin;06/03/2026;4;estudiar
+Catalina;06/03/2026;2;programar
+Estefania;06/03/2026;3;Ver mlp
+Martin;07/03/2026;6;ser therian
+Catalina;07/03/2026;4;ser Batman por las noches
+Estefania;07/03/2026;2;investigar las cutiemarks
+Martin;08/03/2026;1;Ver reels
+Catalina;08/03/2026;2;Ver jujutsu
+Estefania;08/03/2026;3;programar
+Martin;09/03/2026;4;ser therian
+Catalina;09/03/2026;5;ser Batman por las noches
+Estefania;09/03/2026;4;investigar las cutiemarks
+Martin;10/03/2026;3;Ver jujutsu
+Catalina;10/03/2026;1;Ver reels
+Estefania;10/03/2026;2;estudiar
+Martin;11/03/2026;5;ser therian
+Catalina;11/03/2026;6;ser Batman por las noches
+Estefania;11/03/2026;3;investigar las cutiemarks
+Martin;12/03/2026;2;programar
+Catalina;12/03/2026;3;estudiar
+Estefania;12/03/2026;2;Ver mlp
+Martin;13/03/2026;4;ser therian
+Catalina;13/03/2026;7;ser Batman por las noches
+Estefania;13/03/2026;5;investigar las cutiemarks
+Martin;14/03/2026;1;Ver reels
+Catalina;14/03/2026;2;Ver jujutsu
+Estefania;14/03/2026;1;Ver reels
+Martin;15/03/2026;6;ser therian
+Catalina;15/03/2026;4;ser Batman por las noches
+Estefania;15/03/2026;4;investigar las cutiemarks
+Martin;16/03/2026;2;estudiar
+Catalina;16/03/2026;1;programar
+Estefania;16/03/2026;3;Ver mlp
+Martin;17/03/2026;3;ser therian
+Catalina;17/03/2026;5;ser Batman por las noches
+Estefania;17/03/2026;2;investigar las cutiemarks
+Martin;18/03/2026;2;Ver jujutsu
+Catalina;18/03/2026;2;Ver reels
+Estefania;18/03/2026;3;estudiar
+Martin;19/03/2026;5;ser therian
+Catalina;19/03/2026;6;ser Batman por las noches
+Estefania;19/03/2026;4;investigar las cutiemarks
+Martin;20/03/2026;3;programar
+Catalina;20/03/2026;2;estudiar
+Estefania;20/03/2026;1;Ver mlp
+Martin;21/03/2026;4;ser therian
+Catalina;21/03/2026;8;ser Batman por las noches
+Estefania;21/03/2026;3;investigar las cutiemarks
+Martin;22/03/2026;1;Ver reels
+Catalina;22/03/2026;2;Ver jujutsu
+Estefania;22/03/2026;2;Ver reels
+Martin;23/03/2026;6;ser therian
+Catalina;23/03/2026;5;ser Batman por las noches
+Estefania;23/03/2026;4;investigar las cutiemarks
+Martin;24/03/2026;2;estudiar
+Catalina;24/03/2026;3;programar
+Estefania;24/03/2026;1;Ver mlp
+Martin;25/03/2026;3;ser therian
+Catalina;25/03/2026;4;ser Batman por las noches
+Estefania;25/03/2026;5;investigar las cutiemarks
+Martin;26/03/2026;1;Ver jujutsu
+Catalina;26/03/2026;2;Ver reels
+Estefania;26/03/2026;3;estudiar
+Martin;27/03/2026;5;ser therian
+Catalina;27/03/2026;6;ser Batman por las noches
+Estefania;27/03/2026;2;investigar las cutiemarks
+Martin;28/03/2026;2;programar
+Catalina;28/03/2026;1;estudiar
+Estefania;28/03/2026;2;Ver mlp
+Martin;29/03/2026;4;ser therian
+Catalina;29/03/2026;7;ser Batman por las noches
+Estefania;29/03/2026;4;investigar las cutiemarks
+Martin;30/03/2026;2;Ver reels
+Catalina;30/03/2026;3;Ver jujutsu
+Estefania;30/03/2026;1;programar
+Martin;31/03/2026;6;ser therian
+Catalina;31/03/2026;5;ser Batman por las noches
+Estefania;31/03/2026;3;investigar las cutiemarks
+Martin;01/04/2026;1;estudiar
+Catalina;01/04/2026;2;Ver reels
+Estefania;01/04/2026;2;Ver mlp
+Martin;02/04/2026;3;ser therian
+Catalina;02/04/2026;6;ser Batman por las noches
+Estefania;02/04/2026;4;investigar las cutiemarks
+Martin;03/04/2026;2;Ver jujutsu
+Catalina;03/04/2026;2;estudiar
+Estefania;03/04/2026;1;Ver reels
+Martin;04/04/2026;4;ser therian
+Catalina;04/04/2026;7;ser Batman por las noches
+Estefania;04/04/2026;3;investigar las cutiemarks
+Martin;05/04/2026;2;programar
+Catalina;05/04/2026;1;Ver reels
+Estefania;05/04/2026;2;Ver mlp
+Martin;06/04/2026;5;ser therian
+Catalina;06/04/2026;6;ser Batman por las noches
+Estefania;06/04/2026;4;investigar las cutiemarks
+Martin;07/04/2026;1;Ver jujutsu
+Catalina;07/04/2026;3;estudiar
+Estefania;07/04/2026;2;programar
+Martin;08/04/2026;6;ser therian
+Catalina;08/04/2026;5;ser Batman por las noches
+Estefania;08/04/2026;5;investigar las cutiemarks
+Martin;09/04/2026;2;Ver reels
+Catalina;09/04/2026;2;Ver jujutsu
+Estefania;09/04/2026;1;estudiar
+Martin;10/04/2026;4;ser therian
+Catalina;10/04/2026;7;ser Batman por las noches
+Estefania;10/04/2026;3;investigar las cutiemarks
+Martin;11/04/2026;3;estudiar
+Catalina;11/04/2026;1;programar
+Estefania;11/04/2026;2;Ver mlp
+Martin;12/04/2026;5;ser therian
+Catalina;12/04/2026;6;ser Batman por las noches
+Estefania;12/04/2026;4;investigar las cutiemarks
+Martin;13/04/2026;1;Ver jujutsu
+Catalina;13/04/2026;2;Ver reels
+Estefania;13/04/2026;3;programar
+Martin;14/04/2026;6;ser therian
+Catalina;14/04/2026;5;ser Batman por las noches
+Estefania;14/04/2026;3;investigar las cutiemarks
+Martin;15/04/2026;2;programar
+Catalina;15/04/2026;3;estudiar
+Estefania;15/04/2026;1;Ver mlp
+Martin;16/04/2026;4;ser therian
+Catalina;16/04/2026;8;ser Batman por las noches
+Estefania;16/04/2026;5;investigar las cutiemarks
+Martin;17/04/2026;1;Ver reels
+Catalina;17/04/2026;2;Ver jujutsu
+Estefania;17/04/2026;2;estudiar
+Martin;18/04/2026;5;ser therian
+Catalina;18/04/2026;6;ser Batman por las noches
+Estefania;18/04/2026;4;investigar las cutiemarks
+Martin;19/04/2026;3;estudiar
+Catalina;19/04/2026;1;programar
+Estefania;19/04/2026;2;Ver mlp
+Martin;20/04/2026;6;ser therian
+Catalina;20/04/2026;5;ser Batman por las noches
+Estefania;20/04/2026;3;investigar las cutiemarks
+Martin;21/04/2026;2;Ver jujutsu
+Catalina;21/04/2026;3;Ver reels
+Estefania;21/04/2026;1;programar
+Martin;22/04/2026;4;ser therian
+Catalina;22/04/2026;7;ser Batman por las noches
+Estefania;22/04/2026;4;investigar las cutiemarks
+Martin;23/04/2026;1;programar
+Catalina;23/04/2026;2;estudiar
+Estefania;23/04/2026;2;Ver mlp
+Martin;24/04/2026;5;ser therian
+Catalina;24/04/2026;6;ser Batman por las noches
+Estefania;24/04/2026;5;investigar las cutiemarks
+Martin;25/04/2026;2;Ver reels
+Catalina;25/04/2026;1;Ver jujutsu
+Estefania;25/04/2026;3;estudiar
+Martin;26/04/2026;6;ser therian
+Catalina;26/04/2026;5;ser Batman por las noches
+Estefania;26/04/2026;3;investigar las cutiemarks
+Martin;27/04/2026;1;estudiar
+Catalina;27/04/2026;2;programar
+Estefania;27/04/2026;1;Ver mlp
+Martin;28/04/2026;4;ser therian
+Catalina;28/04/2026;7;ser Batman por las noches
+Estefania;28/04/2026;4;investigar las cutiemarks
+Martin;29/04/2026;2;Ver jujutsu
+Catalina;29/04/2026;3;Ver reels
+Estefania;29/04/2026;2;programar
+Martin;30/04/2026;5;ser therian
+Catalina;30/04/2026;6;ser Batman por las noches
+Estefania;30/04/2026;5;investigar las cutiemarks
+Martin;01/05/2026;3;programar
+Catalina;01/05/2026;1;estudiar
+Estefania;01/05/2026;2;Ver mlp
+Martin;02/05/2026;6;ser therian
+Catalina;02/05/2026;5;ser Batman por las noches
+Estefania;02/05/2026;4;investigar las cutiemarks
+Martin;03/05/2026;1;Ver reels
+Catalina;03/05/2026;2;Ver jujutsu
+Estefania;03/05/2026;3;estudiar
+Martin;04/05/2026;4;ser therian
+Catalina;04/05/2026;7;ser Batman por las noches
+Estefania;04/05/2026;3;investigar las cutiemarks
+Martin;05/05/2026;2;estudiar
+Catalina;05/05/2026;1;programar
+Estefania;05/05/2026;2;Ver mlp
+Martin;06/05/2026;5;ser therian
+Catalina;06/05/2026;6;ser Batman por las noches
