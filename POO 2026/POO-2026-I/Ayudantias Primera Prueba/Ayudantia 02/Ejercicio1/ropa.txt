@@ -1,0 +1,20 @@
+traje,0,Amarillo Pollito
+camisa,1,1,0,Cian Brillante
+zapato,3,1,Blanco Marfil
+traje,5,Verde Esmeralda
+camisa,0,2,1,Lila Pastel
+zapato,0,0,Marron Tabaco
+traje,9,Dorado Metalico
+camisa,2,2,1,Turquesa Oscuro
+zapato,2,0,Gris Ceniza
+traje,2,Azul Rey
+camisa,0,0,0,Blanco Almidonado
+zapato,1,1,Negro Charol
+traje,7,Purpura Profundo
+camisa,1,2,1,Naranja Butano
+camisa,2,0,0,Rosa Palo
+zapato,0,1,Burdeo
+traje,3,Gris Marengo
+camisa,1,0,1,Verde Lima
+zapato,3,0,Beige Arena
+camisa,2,1,0,Fucsia Vibrante

@@ -13,7 +13,7 @@ public class solve{
             String[] datos = correo.split("@");
             String dominio = datos[1];
             if(dominio.equalsIgnoreCase("alumnos.ucn.cl")){
-                System.out.printf("¡Bienvenid@ %s! Acceso a plataforma estudiantil.", nombre);
+                System.out.printf("¡Bienvenid@ %s! Acceso a plataforma estudiantil.", nombre);                
                 entradaValida = true;
             } else if(dominio.equalsIgnoreCase("ucn.cl")){
                 System.out.printf("¡Bienvenid@ %s! Acceso a plataforma docente.", nombre);
