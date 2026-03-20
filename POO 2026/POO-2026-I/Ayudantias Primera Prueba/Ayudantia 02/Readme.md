@@ -18,6 +18,21 @@
 <p>Mientras ordenaba se dió cuenta que tenía mucha ropa parecida entre sí, por lo que decidió quedarse con solamente un color de cada prenda y anotar en un archivo llamado <b>ropa.txt</b> todas las posiciones de su ropa junto a su color.</p>
 <p>El archivo tiene la siguiente estructura: <b>prenda, x, y (si corresponde), z (si corresponde), color</b> </p>
 
+**Ejemplo**
+```
+traje,0,Gris Espacial
+traje,4,Azul Eléctrico
+traje,9,Rojo Salmon
+camisa,0,0,0,Blanca
+camisa,0,1,1,Celeste
+camisa,1,2,0,Rosada
+camisa,2,2,1,Rayas Amarillas
+zapato,0,0,Café Cuero
+zapato,1,1,Negro Charol
+zapato,3,0,Gris Oxford
+```
+
+
 <p>Finalmente, para mantener el orden, te pidió a ti que lo ayudes con un programa que muestre un menú con 5 opciones: </p>
 
 <ol>
