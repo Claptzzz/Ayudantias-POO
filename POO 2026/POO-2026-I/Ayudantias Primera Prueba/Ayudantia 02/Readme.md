@@ -58,5 +58,3 @@ zapato,3,0,Gris Oxford
   <li>El portazapatos es una matriz!</li>
   </ul>
 </details>
-
-<h2>Ejercicio 02</h2>
