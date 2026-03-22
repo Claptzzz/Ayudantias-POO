@@ -211,7 +211,7 @@ Fecha limite -> 03/04/2026
 
 ## Pauta de Evaluación
 
-**Puntaje Total Máximo:** 100 puntos
+**Puntaje Total Máximo:** 120 puntos
 
 ### 1. Persistencia de Datos y Archivos (20 puntos)
 * **[5 pts] Lectura de Usuarios:** Lee correctamente el archivo `Usuarios.txt`, separando los datos por `;` y almacenándolos en arreglos.
@@ -236,5 +236,8 @@ Fecha limite -> 03/04/2026
 * **[5 pts] Estructura de codigo:** Mantiene un codigo limpio y ordenado con variables descriptivas y no genericas.
 * **[8 pts] Validación de Índices y Rangos:** Evita errores de `IndexOutOfBounds` (ej. si el usuario selecciona modificar la actividad "10" y solo tiene 3, o si se supera el límite de 300 registros).
 * **[5 pts] Navegación de Menús:** Las opciones de "Regresar" y "Salir" funcionan en todos los submenús sin atrapar al usuario en bucles infinitos.
+
+### 5. Uso de GitHub (20 puntos)
+* **[20 pts] Uso correcto:** Estructura correcta del repositorio, commits frecuentes, buena documentacion.
 
 ---
