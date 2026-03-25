@@ -4,6 +4,7 @@ public class solve {
         int energiaActual = 0;
         int aumentoHabilidad =50; 
         int cantDias = 0;
+        int prueba = 0;
 
         while(energiaActual<energiaObjetivo) {
             energiaActual += aumentoHabilidad;
