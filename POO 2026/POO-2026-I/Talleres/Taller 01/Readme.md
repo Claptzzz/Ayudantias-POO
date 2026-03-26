@@ -207,3 +207,37 @@ Fecha limite -> 03/04/2026
 ## Contactos
 * nicolas.rojas11@alumnos.ucn.cl
 * [Grupo de WhatsApp](https://chat.whatsapp.com/GGkRnviIyRfDj24kXZeGpu?mode=gi_t)
+
+
+## Pauta de Evaluación
+
+**Puntaje Total Máximo:** 120 puntos
+
+### 1. Persistencia de Datos y Archivos (20 puntos)
+* **[5 pts] Lectura de Usuarios:** Lee correctamente el archivo `Usuarios.txt`, separando los datos por `;` y almacenándolos en arreglos.
+* **[5 pts] Lectura de Registros:** Lee correctamente el archivo de registros, separando los datos por `;`.
+* **[5 pts] Escritura de Registros:** Los cambios realizados (agregar, modificar, eliminar) se guardan correctamente en el archivo de texto, manteniendo el formato original.
+* **[5 pts] Escritura de Usuarios:** Al cambiar la contraseña, el archivo `Usuarios.txt` se actualiza correctamente de forma permanente.
+
+### 2. Menú de Usuarios: Autenticación y CRUD (36 puntos)
+* **[5 pts] Login / Autenticación:** El sistema solicita credenciales, las valida y permite el acceso solo si son correctas.
+* **[8 pts] Registrar actividad:** Permite ingresar fecha, horas y actividad, añadiéndola al arreglo correspondiente (y posteriormente al archivo).
+* **[10 pts] Modificar actividad:** Muestra las actividades del usuario logueado. Permite seleccionar una por índice y modificar un campo específico (Fecha, Duración o Tipo) de manera exitosa.
+* **[8 pts] Eliminar actividad:** Permite al usuario seleccionar una de sus actividades y borrarla correctamente de los arreglos (reorganizando el arreglo o marcando el espacio como disponible).
+* **[5 pts] Cambiar contraseña:** Actualiza la credencial del usuario actual en el arreglo y refleja el cambio en el archivo.
+
+### 3. Menú de Análisis y Lógica (26 puntos)
+* **[8 pts] Actividad más realizada (Global):** Algoritmo que cuenta correctamente las frecuencias de todas las actividades e imprime la que más se repite.
+* **[8 pts] Actividad más realizada por usuario:** Algoritmo que filtra por usuario, cuenta las frecuencias de sus actividades e imprime la mayor para cada uno.
+* **[5 pts] Usuario con mayor procrastinación:** Suma correctamente las horas totales invertidas por cada usuario e identifica al que tiene la mayor cantidad.
+* **[5 pts] Ver todas las actividades:** Imprime por consola el registro completo de forma ordenada y legible.
+
+### 4. Control de Errores y Robustez (18 puntos)
+* **[5 pts] Estructura de codigo:** Mantiene un codigo limpio y ordenado con variables descriptivas y no genericas.
+* **[8 pts] Validación de Índices y Rangos:** Evita errores de `IndexOutOfBounds` (ej. si el usuario selecciona modificar la actividad "10" y solo tiene 3, o si se supera el límite de 300 registros).
+* **[5 pts] Navegación de Menús:** Las opciones de "Regresar" y "Salir" funcionan en todos los submenús sin atrapar al usuario en bucles infinitos.
+
+### 5. Uso de GitHub (20 puntos)
+* **[20 pts] Uso correcto:** Estructura correcta del repositorio, commits frecuentes, buena documentacion.
+
+---

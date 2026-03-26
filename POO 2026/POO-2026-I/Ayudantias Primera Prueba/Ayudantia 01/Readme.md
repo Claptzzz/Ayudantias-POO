@@ -19,6 +19,7 @@ Actualmente su energía es 0 UEM.</p>
 ***Acalaración:***
 * La restauración de su energía es acumulativa.
 * Miku solo puede comer 1 completo al día.
+* prueba
 
 ***Extra:***
 <p>Modifica el código para que:</p>
