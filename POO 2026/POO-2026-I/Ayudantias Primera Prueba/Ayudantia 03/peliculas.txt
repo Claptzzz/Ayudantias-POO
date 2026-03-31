@@ -1,0 +1,100 @@
+The Shawshank Redemption,142,Drama,9.3,91
+The Godfather,175,Crimen,9.2,98
+The Dark Knight,152,Acción,9.0,94
+Pulp Fiction,154,Crimen,8.9,92
+Forrest Gump,142,Drama,8.8,71
+Inception,148,Ciencia ficción,8.8,87
+Fight Club,139,Drama,8.8,79
+The Matrix,136,Ciencia ficción,8.7,88
+Goodfellas,146,Crimen,8.7,96
+Se7en,127,Thriller,8.6,83
+Interstellar,169,Ciencia ficción,8.7,73
+Gladiator,155,Acción,8.5,77
+Titanic,195,Romance,7.9,89
+The Lion King,88,Animación,8.5,93
+Jurassic Park,127,Aventura,8.1,91
+The Avengers,143,Acción,8.0,91
+Avatar,162,Ciencia ficción,7.8,82
+Whiplash,106,Drama,8.5,94
+The Departed,151,Crimen,8.5,91
+The Prestige,130,Drama,8.5,76
+Django Unchained,165,Western,8.4,87
+The Wolf of Wall Street,180,Biografía,8.2,79
+Parasite,132,Thriller,8.5,99
+Joker,122,Drama,8.4,68
+Mad Max: Fury Road,120,Acción,8.1,97
+La La Land,128,Musical,8.0,91
+Toy Story,81,Animación,8.3,100
+Finding Nemo,100,Animación,8.2,99
+Up,96,Animación,8.3,98
+Inside Out,95,Animación,8.1,98
+Coco,105,Animación,8.4,97
+Shrek,90,Animación,7.9,88
+Frozen,102,Animación,7.4,90
+The Incredibles,115,Animación,8.0,97
+Monsters Inc.,92,Animación,8.1,96
+A Quiet Place,90,Terror,7.5,96
+Get Out,104,Terror,7.7,98
+The Conjuring,112,Terror,7.5,86
+Hereditary,127,Terror,7.3,90
+It,135,Terror,7.3,86
+The Exorcist,122,Terror,8.1,83
+Halloween,91,Terror,7.7,96
+Saw,103,Terror,7.6,50
+The Ring,115,Terror,7.1,71
+Alien,117,Ciencia ficción,8.5,98
+Aliens,137,Ciencia ficción,8.4,94
+Blade Runner,117,Ciencia ficción,8.1,89
+Arrival,116,Ciencia ficción,7.9,94
+Gravity,91,Ciencia ficción,7.7,96
+The Martian,144,Ciencia ficción,8.0,91
+Edge of Tomorrow,113,Acción,7.9,91
+John Wick,101,Acción,7.4,86
+Die Hard,132,Acción,8.2,94
+Mission Impossible,110,Acción,7.1,65
+Skyfall,143,Acción,7.8,92
+Casino Royale,144,Acción,8.0,94
+The Bourne Identity,119,Acción,7.9,84
+Rocky,120,Drama,8.1,91
+Creed,133,Drama,7.6,95
+Raging Bull,129,Drama,8.2,93
+The Social Network,120,Drama,7.7,96
+A Beautiful Mind,135,Drama,8.2,74
+The Imitation Game,114,Drama,8.0,90
+Bohemian Rhapsody,134,Biografía,7.9,60
+The Theory of Everything,123,Biografía,7.7,80
+Ford v Ferrari,152,Drama,8.1,92
+1917,119,Guerra,8.2,89
+Saving Private Ryan,169,Guerra,8.6,93
+Dunkirk,106,Guerra,7.8,92
+Hacksaw Ridge,139,Guerra,8.1,84
+The Pianist,150,Drama,8.5,95
+Schindler's List,195,Drama,9.0,98
+The Green Mile,189,Drama,8.6,79
+Cast Away,143,Aventura,7.8,89
+Life of Pi,127,Aventura,7.9,86
+Slumdog Millionaire,120,Drama,8.0,91
+The Grand Budapest Hotel,99,Comedia,8.1,92
+Superbad,113,Comedia,7.6,88
+The Hangover,100,Comedia,7.7,78
+Step Brothers,98,Comedia,6.9,55
+Mean Girls,97,Comedia,7.1,84
+Clueless,97,Comedia,6.9,81
+Legally Blonde,96,Comedia,6.4,70
+Bridesmaids,125,Comedia,6.8,89
+Deadpool,108,Acción,8.0,85
+Logan,137,Acción,8.1,93
+Black Panther,134,Acción,7.3,96
+Spider-Man: Into the Spider-Verse,117,Animación,8.4,97
+Doctor Strange,115,Acción,7.5,89
+Guardians of the Galaxy,121,Acción,8.0,92
+Thor: Ragnarok,130,Acción,7.9,93
+Iron Man,126,Acción,7.9,94
+Captain America: Civil War,147,Acción,7.8,90
+Avengers: Endgame,181,Acción,8.4,94
+Avengers: Infinity War,149,Acción,8.4,85
+The Notebook,123,Romance,7.8,53
+Pride and Prejudice,129,Romance,7.8,87
+Before Sunrise,101,Romance,8.1,100
+Her,126,Romance,8.0,95
+Eternal Sunshine of the Spotless Mind,108,Romance,8.3,92
