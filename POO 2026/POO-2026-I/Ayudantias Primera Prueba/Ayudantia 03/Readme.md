@@ -36,7 +36,7 @@ int num = rand.nextInt(100);
 </ol>
 
 ```
-try (FileWriter writer = new FileWriter("peliculas.txt", false)) {
+try (FileWriter writer = new FileWriter("peliculas.txt", true)) {
     writer.write(peliculas a agregar);
     System.out.println("Peliculas añadidas.");
 } catch (IOException e) {
