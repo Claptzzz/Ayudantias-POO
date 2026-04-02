@@ -1,0 +1,93 @@
+public class pelicula {
+	private String nombre;
+    private int duracion;
+    private String genero;
+    private double imdb;
+    private int rotten;
+    private boolean vista;
+    private int miRating;
+    private int panaRating;
+
+    public pelicula(String nombre, int duracion, String genero, double imdb, int rotten) {
+        this.nombre = nombre;
+        this.duracion = duracion;
+        this.genero = genero;
+        this.imdb = imdb;
+        this.rotten = rotten;
+        this.vista = false;
+    }
+
+    public double ratingCombinado() {
+        return (imdb * 10 + rotten) / 2.0;
+    }
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public int getDuracion() {
+		return duracion;
+	}
+
+	public void setDuracion(int duracion) {
+		this.duracion = duracion;
+	}
+
+	public String getGenero() {
+		return genero;
+	}
+
+	public void setGenero(String genero) {
+		this.genero = genero;
+	}
+
+	public double getImdb() {
+		return imdb;
+	}
+
+	public void setImdb(double imdb) {
+		this.imdb = imdb;
+	}
+
+	public int getRotten() {
+		return rotten;
+	}
+
+	public void setRotten(int rotten) {
+		this.rotten = rotten;
+	}
+
+	public boolean isVista() {
+		return vista;
+	}
+
+	public void setVista(boolean vista) {
+		this.vista = vista;
+	}
+
+	public int getMiRating() {
+		return miRating;
+	}
+
+	public void setMiRating(int miRating) {
+		this.miRating = miRating;
+	}
+
+	public int getPanaRating() {
+		return panaRating;
+	}
+
+	public void setPanaRating(int panaRating) {
+		this.panaRating = panaRating;
+	}
+
+	@Override
+	public String toString() {
+		return "Vamos a ver la pelicula " + nombre + " con un rating combinado de " + ratingCombinado();
+	}
+
+}

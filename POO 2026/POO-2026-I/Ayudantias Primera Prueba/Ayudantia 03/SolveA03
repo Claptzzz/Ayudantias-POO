@@ -1,0 +1,243 @@
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Random;
+import java.util.Scanner;
+
+public class solveA03 {
+
+	public static void main(String[] args) {
+		pelicula[] peliculas = new pelicula[100];
+        //Lista que guardará todas las películas
+	    Scanner scanner = new Scanner(System.in);
+        //Scanner que viajará por todas las funciones, no cerrar hasta que el menú se cierre
+	    
+	    //aqui cargo el archivo
+	    cargarPeliculas(peliculas);
+        //y aqui ordeno las películas de mejor rating a peor
+	    ordenarPeliculas(peliculas);
+	    
+	    boolean piyamada = true;
+	    pelicula[] vistas = new pelicula[4];
+        //Lista donde tendremos las 4 películas a ver cada piyamada
+	    
+	    //creacion del menú
+	    while (piyamada) {
+            System.out.println("¿Cómo va la piyamada?");
+            System.out.println("1. Recién empezamos");
+            System.out.println("2. A mimir");
+            System.out.println("3. Juguemos");
+            System.out.println("4. Ratings");
+            System.out.println("5. Salir");
+
+            int opcion = Integer.parseInt(scanner.nextLine());
+            
+            while (opcion < 1 || opcion > 5) {
+            	System.out.println("Ingrese una opción válida.");
+            	opcion = Integer.parseInt(scanner.nextLine());
+            	
+            }
+
+            if (opcion == 1) {
+                inicioNoche(peliculas, vistas);
+            } else if (opcion == 2){
+                finalNoche(peliculas, vistas, scanner);
+            } else if (opcion == 3){
+                juego(peliculas, scanner);
+            } else if (opcion == 4){
+                consultarRatings(peliculas, scanner);
+            } else {
+                piyamada = false;
+            }
+        }
+	    scanner.close();
+
+	}
+	
+
+	static void cargarPeliculas(pelicula[] peliculas) {
+        try {
+        	File arch = new File("peliculas.txt");
+        	Scanner lector = new Scanner(arch);
+            String linea;
+            int contador = 0;
+
+            while ((lector.hasNextLine())) {
+
+                //Leo el archivo hasta la línea 100, la cantidad de películas
+            	if (contador < 100) {
+	            	linea = lector.nextLine(); 
+	                String[] partes = linea.split(",");
+	
+	                String nombre = partes[0];
+	                int duracion = Integer.parseInt(partes[1]);
+	                String genero = partes[2];
+	                double imdb = Double.parseDouble(partes[3]);
+	                int rotten = Integer.parseInt(partes[4]);
+	
+	                peliculas[contador] = new pelicula(nombre, duracion, genero, imdb, rotten);
+	                contador++;
+
+                //Empiezo a leer las líneas ingresadas manualmente con el formato a elección. 
+                // Esto puede cambiar según como ustedes quieran guardar las líneas
+            	} else {
+            		linea = lector.nextLine(); 
+            		String[] partes = linea.split(",");
+            		for (int i = 0; i < 12; i = i + 3) {
+            			for (int j = 0; j < 100; j++) {
+            				if (peliculas[j].getNombre().equals(partes[i])){
+            					peliculas[j].setVista(true);
+            					peliculas[j].setMiRating(Integer.parseInt(partes[i + 1]));
+            					peliculas[j].setPanaRating(Integer.parseInt(partes[i + 2]));
+            				}
+            			}
+            		}
+            	}
+            }
+            lector.close();
+
+        } catch (Exception e) {
+            System.out.println("No se pudo leer el archivo. Revise que exista o que está en la carpeta correcta.");
+            e.printStackTrace();
+        }
+    }
+	
+	private static void ordenarPeliculas(pelicula[] peliculas) {
+
+	    for (int i = 0; i < 100 - 1; i++) {
+	        for (int j = i + 1; j < 100; j++) {
+
+	            double ratingActual = peliculas[i].ratingCombinado();
+	            double ratingSiguiente = peliculas[j].ratingCombinado();
+
+	            if (ratingActual < ratingSiguiente) {
+	                pelicula aux = peliculas[i];
+	                peliculas[i] = peliculas[j];
+	                peliculas[j] = aux;
+	            }
+	        }
+	    }
+	}
+	
+	static void inicioNoche(pelicula[] peliculas, pelicula[] vistas) {
+        int contador = 0;
+        System.out.println("Películas para hoy:");
+
+        for (int i = 0; i < 100; i++) {
+        	//revisa que la pelicula no haya sido vista (que vista = false)
+            if (!peliculas[i].isVista()) {
+                System.out.println(peliculas[i].toString());
+                vistas[contador] = peliculas[i];
+                contador++;
+            }
+            if (contador == 4) break;
+            //Si ya guardé 4 películas, salgo del for
+        }
+    }
+	
+	static void finalNoche(pelicula[] peliculas, pelicula[] vistas, Scanner scanner) {
+		String vimos = "\n";
+		int mio;
+		int pana;
+        for (int i = 0; i < 4; i++) {
+        	System.out.println("Para la pelicula: " + vistas[i].getNombre());
+        	System.out.println("Tu rating (1-10):");
+            mio = Integer.parseInt(scanner.nextLine());
+            System.out.println("Rating de tu pareja (1-10):");
+            pana = Integer.parseInt(scanner.nextLine());
+
+            //Ingreso de los rankings de cada uno
+            vistas[i].setMiRating(mio);
+            vistas[i].setPanaRating(pana);
+            vistas[i].setVista(true);
+            //Ingreso los ratings y pongo que la película fue vista
+            
+            System.out.println("Promedio personal: " + ((mio + pana) / 2));
+        	
+        	vimos += vistas[i].getNombre() + ","+ vistas[i].getMiRating() + "," + vistas[i].getPanaRating();
+        	if (i != 3) {
+        		vimos += ",";
+        	}
+            //Agrego esos datos a "vimos, la variable que guarda la línea de texto que guardaré en el txt"
+        }
+        
+        try (FileWriter writer = new FileWriter("peliculas.txt", true)) {
+            writer.write(vimos);
+            System.out.println("Peliculas añadidas al final del archivo para su lectura fácil.");
+        } catch (IOException e) {
+            System.out.println("Hubo un error leyendo el archivo.");
+        }
+        //Añado la línea de texto al final del archivo, líneas 100+
+
+    }
+
+    static void juego(pelicula[] peliculas, Scanner scanner) {
+        Random rand = new Random();
+
+        System.out.println("\nJuego: adivina el rating");
+        
+        int contTu = 0;
+        int contPana = 0;
+
+        for (int i = 0; i < 5; i++) {
+            int index = rand.nextInt(100);
+            pelicula p = peliculas[index];
+            //Genero número de 0 a 99, encuentro lapelícula en ese índice para jugar
+
+            System.out.println("Película: " + p.getNombre());
+            System.out.print("Tu estimación: ");
+            double guess = Double.parseDouble(scanner.nextLine());
+            System.out.print("La estimación de tu pana: ");
+            double guess2 = Double.parseDouble(scanner.nextLine());
+
+            double real = p.ratingCombinado();
+            
+            double difGuess = Math.abs(real - guess);
+            double difGuess2 = Math.abs(real - guess2);
+
+            //Saco el valor absoluto de la diferencia entre el puntaje real y el adivinado
+
+            System.out.println("Rating real: " + real);
+            System.out.println("Diferencia tuya: " + difGuess);
+            System.out.println("Diferencia de tu pana: " + difGuess2);
+            
+            if (difGuess < difGuess2) {
+            	contTu++;
+            } else if (difGuess > difGuess2){
+            	contPana++;
+            }
+            //Voy contanto quién tiene más puntos
+            
+        }
+        if (contTu > contPana) {
+        	System.out.println("Ganas tu! Puntaje: " + contTu + ", " + contPana);
+        } else if (contTu < contPana){
+        	System.out.println("Gana tu pana! Puntaje: " + contPana + ", " + contTu);
+        } else {
+        	System.out.println("Empate!");
+        }
+    }
+    static void consultarRatings(pelicula[] peliculas, Scanner scanner) {
+        System.out.println("¿Qué película quieren consultar? (0-99)");
+        int pel = Integer.parseInt(scanner.nextLine());
+        while(pel < 0 || pel > 99) {
+        	System.out.println("Película inválida. Intente con un número del 0 al 99.");
+            pel = Integer.parseInt(scanner.nextLine());
+        }
+        pelicula consulta = peliculas[pel];
+        System.out.println("Película: " + consulta.getNombre());
+        System.out.println("IMDb: " + consulta.getImdb());
+        System.out.println("Rotten Tomatoes: " + consulta.getRotten() + "%");
+        System.out.println("Rating combinado: " + consulta.ratingCombinado());
+        if (consulta.isVista()) {
+        	System.out.println("Tu rating: " + consulta.getMiRating());
+            System.out.println("Rating de tu pareja: " + consulta.getPanaRating());
+        } else {
+            System.out.println("Aún no vista por ustedes");
+        }
+    }
+
+    //Esto no es un submenú. Háganlo ustedes jaja que flojera
+    //Cada uno de estos será una opción en el submenú. Ya saben
+
+}
