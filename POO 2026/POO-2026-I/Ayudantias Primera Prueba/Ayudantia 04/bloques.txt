@@ -1,0 +1,36 @@
+Madera;bloque;4
+Piedra;bloque;5
+Carbón;recurso;20
+Hierro;recurso;30
+Oro;recurso;1
+Diamante;recurso;4
+Palo;material;44
+Antorcha;objeto;3
+Mesa de crafteo;objeto;1
+Horno;objeto;5
+Pico de madera;herramienta;10
+Pico de piedra;herramienta;8
+Pico de hierro;herramienta;1
+Espada de madera;arma;1
+Espada de piedra;arma;1
+Espada de hierro;arma;1
+Espada de diamante;arma;1
+Lingote de hierro;material;21
+Lingote de oro;material;3
+Tablones;material;10
+Arena;bloque;30
+Vidrio;bloque;15
+Tierra;bloque;57
+Grava;bloque;38
+Cuerda;material;22
+Arco;arma;1
+Flecha;objeto;2
+Trigo;recurso;20
+Pan;comida;6
+Manzana;comida;3
+Manzana dorada;comida;1
+Cubeta;objeto;9
+Agua;recurso;10
+Lava;recurso;7
+Obsidiana;bloque;1
+Pedernal;recurso;2

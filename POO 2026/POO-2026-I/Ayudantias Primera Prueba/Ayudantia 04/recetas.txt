@@ -1,0 +1,10 @@
+Madera;Madera;Madera;Madera;Mesa de crafteo
+Tablones;Tablones;;;Palo
+Palo;Carbón;;;Antorcha
+Piedra;Piedra;Piedra;Palo;Pico de piedra
+Madera;Madera;Madera;Palo;Pico de madera
+Hierro;Hierro;Hierro;Palo;Pico de hierro
+Diamante;Diamante;Diamante;Palo;Pico de diamante
+Palo;Palo;Tablones;Tablones;Espada de madera
+Palo;Palo;Piedra;Piedra;Espada de piedra
+Palo;Palo;Hierro;Hierro;Espada de hierro
