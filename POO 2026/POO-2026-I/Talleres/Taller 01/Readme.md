@@ -1,7 +1,7 @@
 # Taller 01
 
 **I Semestre - 2026**
-**ITI - ICCI**
+**ITI - ICCI - ICI**
 
 **Docentes:**
 - Alejandro Paolini Godoy

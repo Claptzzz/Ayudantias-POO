@@ -1,0 +1,7 @@
+1;MartinGalactico;Magikarp;Noivern;Excadrill;Steelix;Lucario;Scizor
+2;Estefania;Victini;Azumarill;Floatzel;Magcargo;Ludicolo;Seismitoad
+3;Catalina;Snorlax;Milotic;Froslass;Shiftry;Mewtwo;Kingler
+4;Clapt;MegaMawile;Spiritomb;Noivern;Scizor;Dragapult;Gliscor
+5;Juan;Charizard;Sceptile;Umbreon;Psyduck;Staraptor;Mamoswine
+6;Rabi;Meganium;Samurott;Groudon;Sableye;Garganacl;Reshiram
+7;Papulini;Ekans;Snorlax;Wobbuffet;Zubat;Poliwrath;Victreebel
