@@ -210,6 +210,7 @@ Una vez ingresado a las batallas, se retará a cada oponente de manera consecuti
 * No existen turnos, por lo cual el jugador puede cambiar cuantas veces quiera de Pokémon en combate.
 * En caso de elegir la opción `Atacar` se debera imprimir los stats resultantes de cada Pokémon (del jugador y el rival) y el resultado del combate.
 * Para desafiar al Alto Mando, debes tener los 8 gimnasios derrotados.
+* Un pokemon no se puede repetir en los pokemons del jugador, esto significa que si ya lo capturo no puede volver a capturarlo.
 
 
 ### Ejemplos de Ejecución.
