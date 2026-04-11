@@ -3,6 +3,7 @@
 ## Inventario de minecraft!!
 
 <img align="right" width=100px alt="Unicorn" src="https://media1.tenor.com/m/ZYdYQP14TcgAAAAd/cat-minecraft.gif">
+
 <p>Año 2009... Acaba de lanzarse una de las primeras versiones del modo supervivencia de Minecraft.</p>
 <p>En esta versión temprana (v0.3.0) los jugadores recién están aprendiendo a sobrevivir recolectando recursos, almacenándolos en su inventario y utilizando una pequeña cuadrícula de 2x2 para fabricar nuevos objetos mediante crafteo.</p>
 
