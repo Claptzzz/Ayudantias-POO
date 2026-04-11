@@ -1,0 +1,8 @@
+1;EmmaLaArdillaRabiosa;Sin derrotar;3;Minun;Plusle;Emolga
+2;MartinNegro;Sin derrotar;3;MegaBlaziken;Centiskorch;Slugma
+3;Ferran;Sin derrotar;4;Gengar;Reuniclus;Mewtwo;Reshiram
+4;Branco;Sin derrotar;4;Minior;Dracovish;Porygon-Z;Hydrapple
+5;Remi;Sin derrotar;5;Eevee;Scizor;Trevenant;Umbreon;Togekiss
+6;Pruno;Sin derrotar;5;Infernape;Aggron;Tyranitar;Lucario;Aerodactyl
+7;Dani;Sin derrotar;6;Mew;Swanna;Milotic;Dragapult;Lapras;Gigalith
+8;Maxi;Sin derrotar;6;Chandelure;Decidueye;Froslass;Dragapult;Spiritomb;Sableye

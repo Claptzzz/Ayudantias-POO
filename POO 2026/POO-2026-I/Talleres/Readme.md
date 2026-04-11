@@ -1,10 +1,18 @@
 # Talleres POO 2026-I
 
-* Docentes: Alejandro Paolini, Cristian Rabi, Juan Nilo.
+* Docentes: Alejandro Paolini, Cristhian Rabi, Juan Nilo.
 
 * Ayudantes: Nicolás Rojas (Talleres), Catalina Galleguillos (Catedra), Martin Droguett (Catedra), Estefania Ulloa(Catedra).
 
 ## Condideraciones (para ***TODOS*** los talleres).
+
+### Porcentajes
+
+* Controles -> 20%
+* Taller 1 -> 10%
+* Taller 2 -> 15%
+* Taller 3 -> 25%
+* Taller 4 -> 30%
 
 ### Comunicación y dudas
 
