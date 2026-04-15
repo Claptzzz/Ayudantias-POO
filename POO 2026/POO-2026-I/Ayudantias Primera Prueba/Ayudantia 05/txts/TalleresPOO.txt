@@ -1,0 +1,9 @@
+3
+Juan;Perez;5.5
+Ignacio;Pastén;6.8
+Diego;Soto;4.2
+Ana;López;7.0
+Carlos;Ruiz;3.5
+Elena;Beltrán;5.0
+Sebastián;González;1.5
+Javiera;Muñoz;6.2
