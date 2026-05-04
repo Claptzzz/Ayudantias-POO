@@ -1,0 +1,100 @@
+Sofía, 12, muñeca, rosado
+Juan, 8, auto, rojo, si
+Martina, 6, peluche, oso
+Diego, 10, pelota, azul
+Valentina, 15, muñeca, verde
+Tomás, 7, auto, negro, no
+Camila, 9, peluche, conejo
+Lucas, 11, pelota, rojo
+Antonia, 13, muñeca, morado
+Benjamín, 5, auto, azul, no
+Isidora, 14, peluche, unicornio
+Matías, 8, pelota, amarillo
+Florencia, 10, muñeca, celeste
+Vicente, 6, auto, verde, si
+Catalina, 11, peluche, gato
+Sebastián, 15, pelota, blanco
+Josefa, 7, muñeca, rosado
+Agustín, 9, auto, gris, si
+Emilia, 12, peluche, perro
+Joaquín, 13, pelota, naranja
+Trinidad, 8, muñeca, amarillo
+Gaspar, 10, auto, rojo, no
+Amanda, 6, peluche, panda
+Maximiliano, 14, pelota, verde
+Fernanda, 11, muñeca, azul
+Ignacio, 7, auto, negro, si
+Daniela, 13, peluche, dragón
+Cristóbal, 9, pelota, morado
+Pía, 5, muñeca, rojo
+Felipe, 12, auto, blanco, si
+Constanza, 15, peluche, elefante
+Bruno, 6, pelota, azul
+Javiera, 14, muñeca, verde
+Simón, 10, auto, amarillo, no
+Renata, 7, peluche, zorro
+Álvaro, 11, pelota, rojo
+Francisca, 13, muñeca, rosado
+Nicolás, 8, auto, gris, si
+Elena, 9, peluche, oso
+Esteban, 12, pelota, naranja
+Rocío, 6, muñeca, morado
+Hugo, 14, auto, azul, si
+Claudia, 11, peluche, gato
+Andrés, 7, pelota, blanco
+Marta, 10, muñeca, celeste
+Rodrigo, 13, auto, rojo, no
+Beatriz, 8, peluche, conejo
+Enrique, 15, pelota, amarillo
+Natalia, 12, muñeca, verde
+Sergio, 9, auto, negro, si
+Lorena, 14, peluche, unicornio
+Guillermo, 6, pelota, azul
+Paula, 11, muñeca, rosado
+Oscar, 7, auto, blanco, no
+Verónica, 10, peluche, perro
+Raúl, 13, pelota, rojo
+Cecilia, 8, muñeca, amarillo
+Manuel, 12, auto, gris, si
+Alicia, 6, peluche, panda
+Ricardo, 15, pelota, verde
+Silvia, 11, muñeca, morado
+Pablo, 9, auto, azul, si
+Teresa, 14, peluche, gato
+Jorge, 7, pelota, blanco
+Luisa, 10, muñeca, rojo
+Adrián, 13, auto, negro, si
+Susana, 8, peluche, oso
+Iván, 12, pelota, amarillo
+Gloria, 6, muñeca, verde
+Mario, 14, auto, rojo, si
+Patricia, 11, peluche, conejo
+Daniel, 9, pelota, azul
+Carolina, 15, muñeca, celeste
+Eduardo, 7, auto, gris, si
+Ana, 10, peluche, unicornio
+Luis, 13, pelota, rojo
+María, 8, muñeca, rosado
+Fernando, 12, auto, blanco, si
+Sonia, 6, peluche, perro
+Rafael, 14, pelota, verde
+Elisa, 11, muñeca, amarillo
+Carlos, 9, auto, negro, si
+Inés, 13, peluche, gato
+Pedro, 7, pelota, azul
+Julia, 10, muñeca, morado
+Diego Andrés, 12, auto, rojo, si
+Clara, 8, peluche, panda
+Tomás Andrés, 15, pelota, blanco
+Sara, 11, muñeca, verde
+Bruno Andrés, 9, auto, gris, si
+Olga, 14, peluche, oso
+Mateo, 6, pelota, amarillo
+Eva, 13, muñeca, rosado
+Leonardo, 7, auto, azul, si
+Noelia, 12, peluche, conejo
+Arturo, 10, pelota, rojo
+Gabriela, 11, muñeca, lila
+Esteban Andrés, 13, auto, verde, no
+Micaela, 7, peluche, koala
+Fabián, 10, pelota, naranja

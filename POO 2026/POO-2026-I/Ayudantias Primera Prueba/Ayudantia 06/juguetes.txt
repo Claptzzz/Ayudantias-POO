@@ -1,0 +1,340 @@
+1, pequeño, muñeca, 85, rosado
+2, mediano, peluche, oso, 20
+3, grande, auto, rojo, 4, si
+4, pequeño, pelota, azul, no
+5, mediano, muñeca, 60, verde
+6, grande, peluche, conejo, 5
+7, pequeño, auto, negro, 3, no
+8, mediano, pelota, amarillo, no
+9, grande, muñeca, 75, morado
+10, pequeño, peluche, perro, 30
+11, mediano, auto, azul, 4, si
+12, grande, pelota, rojo, si
+13, pequeño, muñeca, 88, celeste
+14, mediano, peluche, panda, 12
+15, grande, auto, gris, 1, si
+16, pequeño, pelota, verde, no
+17, mediano, muñeca, 95, rosado
+18, grande, peluche, gato, 6
+19, pequeño, auto, blanco, 4, no
+20, mediano, pelota, naranja, si
+21, grande, muñeca, 80, amarillo
+22, pequeño, peluche, unicornio, 14
+23, mediano, auto, rojo, 4, si
+24, grande, pelota, azul, no
+25, pequeño, muñeca, 92, verde
+26, mediano, peluche, oso, 7
+27, grande, auto, negro, 4, si
+28, pequeño, pelota, blanco, no
+29, mediano, muñeca, 65, morado
+30, grande, peluche, conejo, 10
+31, pequeño, auto, azul, 4, si
+32, mediano, pelota, amarillo, no
+33, grande, muñeca, 85, celeste
+34, pequeño, peluche, perro, 5
+35, mediano, auto, gris, 4, no
+36, grande, pelota, rojo, no
+37, pequeño, muñeca, 78, rosado
+38, mediano, peluche, panda, 9
+39, grande, auto, blanco, 4, si
+40, pequeño, pelota, verde, no
+41, mediano, muñeca, 88, amarillo
+42, grande, peluche, gato, 6
+43, pequeño, auto, negro, 4, si
+44, mediano, pelota, naranja, no
+45, grande, muñeca, 91, morado
+46, pequeño, peluche, unicornio, 13
+47, mediano, auto, rojo, 4, no
+48, grande, pelota, azul, no
+49, pequeño, muñeca, 83, celeste
+50, mediano, peluche, oso, 8
+51, grande, auto, gris, 4, si
+52, pequeño, pelota, blanco, no
+53, mediano, muñeca, 96, verde
+54, grande, peluche, conejo, 4
+55, pequeño, auto, azul, 4, si
+56, mediano, pelota, rojo, no
+57, grande, muñeca, 89, rosado
+58, pequeño, peluche, perro, 7
+59, mediano, auto, negro, 4, si
+60, grande, pelota, amarillo, no
+61, pequeño, muñeca, 74, morado
+62, mediano, peluche, panda, 10
+63, grande, auto, blanco, 4, si
+64, pequeño, pelota, verde, no
+65, mediano, muñeca, 93, celeste
+66, grande, peluche, gato, 6
+67, pequeño, auto, gris, 2, no
+68, mediano, pelota, azul, no
+69, grande, muñeca, 82, rosado
+70, pequeño, peluche, oso, 9
+71, mediano, auto, rojo, 4, si
+72, grande, pelota, naranja, no
+73, pequeño, muñeca, 87, verde
+74, mediano, peluche, conejo, 12
+75, grande, auto, negro, 4, si
+76, pequeño, pelota, blanco, no
+77, mediano, muñeca, 79, amarillo
+78, grande, peluche, unicornio, 14
+79, pequeño, auto, azul, 4, si
+80, mediano, pelota, rojo, no
+81, grande, muñeca, 90, morado
+82, pequeño, peluche, perro, 5
+83, mediano, auto, gris, 4, si
+84, grande, pelota, verde, no
+85, pequeño, muñeca, 76, celeste
+86, mediano, peluche, panda, 11
+87, grande, auto, blanco, 4, si
+88, pequeño, pelota, azul, no
+89, mediano, muñeca, 94, rosado
+90, grande, peluche, gato, 6
+91, pequeño, auto, negro, 4, si
+92, mediano, pelota, amarillo, no
+93, grande, muñeca, 81, verde
+94, pequeño, peluche, oso, 10
+95, mediano, auto, rojo, 4, no
+96, grande, pelota, blanco, no
+97, pequeño, muñeca, 88, morado
+98, mediano, peluche, conejo, 7
+99, grande, auto, azul, 4, si
+100, pequeño, pelota, naranja, no
+101, pequeño, muñeca, 40, rosado
+102, mediano, peluche, oso, 18
+103, grande, auto, rojo, 3, si
+104, pequeño, pelota, azul, si
+105, mediano, muñeca, 55, verde
+106, grande, peluche, conejo, 25
+107, pequeño, auto, negro, 2, no
+108, mediano, pelota, amarillo, si
+109, grande, muñeca, 65, morado
+110, pequeño, peluche, perro, 22
+111, mediano, auto, azul, 3, si
+112, grande, pelota, rojo, si
+113, pequeño, muñeca, 60, celeste
+114, mediano, peluche, panda, 17
+115, grande, auto, gris, 1, no
+116, pequeño, pelota, verde, si
+117, mediano, muñeca, 50, rosado
+118, grande, peluche, gato, 19
+119, pequeño, auto, blanco, 3, si
+120, mediano, pelota, naranja, si
+121, pequeño, muñeca, 82, rosado
+122, mediano, peluche, oso, 9
+123, grande, auto, rojo, 4, si
+124, pequeño, pelota, azul, no
+125, mediano, muñeca, 68, verde
+126, grande, peluche, conejo, 5
+127, pequeño, auto, negro, 4, no
+128, mediano, pelota, amarillo, no
+129, grande, muñeca, 91, morado
+130, pequeño, peluche, perro, 18
+131, mediano, auto, azul, 4, si
+132, grande, pelota, rojo, no
+133, pequeño, muñeca, 87, celeste
+134, mediano, peluche, panda, 12
+135, grande, auto, gris, 3, si
+136, pequeño, pelota, verde, no
+137, mediano, muñeca, 95, rosado
+138, grande, peluche, gato, 6
+139, pequeño, auto, blanco, 4, no
+140, mediano, pelota, naranja, no
+141, grande, muñeca, 74, amarillo
+142, pequeño, peluche, unicornio, 16
+143, mediano, auto, rojo, 4, si
+144, grande, pelota, azul, no
+145, pequeño, muñeca, 92, verde
+146, mediano, peluche, oso, 7
+147, grande, auto, negro, 4, si
+148, pequeño, pelota, blanco, no
+149, mediano, muñeca, 65, morado
+150, grande, peluche, conejo, 10
+151, pequeño, auto, azul, 4, si
+152, mediano, pelota, amarillo, no
+153, grande, muñeca, 85, celeste
+154, pequeño, peluche, perro, 5
+155, mediano, auto, gris, 4, no
+156, grande, pelota, rojo, no
+157, pequeño, muñeca, 78, rosado
+158, mediano, peluche, panda, 9
+159, grande, auto, blanco, 4, si
+160, pequeño, pelota, verde, no
+161, mediano, muñeca, 88, amarillo
+162, grande, peluche, gato, 6
+163, pequeño, auto, negro, 2, si
+164, mediano, pelota, naranja, no
+165, grande, muñeca, 91, morado
+166, pequeño, peluche, unicornio, 13
+167, mediano, auto, rojo, 4, no
+168, grande, pelota, azul, no
+169, pequeño, muñeca, 83, celeste
+170, mediano, peluche, oso, 8
+171, grande, auto, gris, 4, si
+172, pequeño, pelota, blanco, no
+173, mediano, muñeca, 96, verde
+174, grande, peluche, conejo, 4
+175, pequeño, auto, azul, 4, si
+176, mediano, pelota, rojo, no
+177, grande, muñeca, 89, rosado
+178, pequeño, peluche, perro, 7
+179, mediano, auto, negro, 4, si
+180, grande, pelota, amarillo, no
+181, pequeño, muñeca, 74, morado
+182, mediano, peluche, panda, 17
+183, grande, auto, blanco, 4, si
+184, pequeño, pelota, verde, no
+185, mediano, muñeca, 93, celeste
+186, grande, peluche, gato, 6
+187, pequeño, auto, gris, 4, no
+188, mediano, pelota, azul, no
+189, grande, muñeca, 82, rosado
+190, pequeño, peluche, oso, 9
+191, mediano, auto, rojo, 4, si
+192, grande, pelota, naranja, no
+193, pequeño, muñeca, 87, verde
+194, mediano, peluche, conejo, 12
+195, grande, auto, negro, 4, si
+196, pequeño, pelota, blanco, no
+197, mediano, muñeca, 79, amarillo
+198, grande, peluche, unicornio, 14
+199, pequeño, auto, azul, 4, si
+200, mediano, pelota, rojo, no
+201, grande, muñeca, 90, morado
+202, pequeño, peluche, perro, 5
+203, mediano, auto, gris, 4, si
+204, grande, pelota, verde, no
+205, pequeño, muñeca, 76, celeste
+206, mediano, peluche, panda, 11
+207, grande, auto, blanco, 4, si
+208, pequeño, pelota, azul, no
+209, mediano, muñeca, 94, rosado
+210, grande, peluche, gato, 6
+211, pequeño, auto, negro, 4, si
+212, mediano, pelota, amarillo, no
+213, grande, muñeca, 81, verde
+214, pequeño, peluche, oso, 10
+215, mediano, auto, rojo, 4, no
+216, grande, pelota, blanco, no
+217, pequeño, muñeca, 88, morado
+218, mediano, peluche, conejo, 7
+219, grande, auto, azul, 4, si
+220, pequeño, pelota, naranja, no
+221, mediano, muñeca, 60, rosado
+222, grande, peluche, gato, 20
+223, pequeño, auto, gris, 3, si
+224, mediano, pelota, verde, si
+225, grande, muñeca, 95, celeste
+226, pequeño, peluche, panda, 6
+227, mediano, auto, negro, 4, si
+228, grande, pelota, rojo, no
+229, pequeño, muñeca, 72, amarillo
+230, mediano, peluche, conejo, 14
+231, grande, auto, blanco, 4, si
+232, pequeño, pelota, azul, no
+233, mediano, muñeca, 85, rosado
+234, grande, peluche, oso, 8
+235, pequeño, auto, rojo, 4, si
+236, mediano, pelota, naranja, no
+237, grande, muñeca, 67, verde
+238, pequeño, peluche, perro, 18
+239, mediano, auto, azul, 2, no
+240, grande, pelota, amarillo, si
+241, pequeño, muñeca, 85, rosado
+242, mediano, peluche, oso, 10
+243, grande, auto, rojo, 4, si
+244, pequeño, pelota, azul, no
+245, mediano, muñeca, 90, verde
+246, grande, peluche, conejo, 5
+247, pequeño, auto, negro, 4, no
+248, mediano, pelota, amarillo, no
+249, grande, muñeca, 75, morado
+250, pequeño, peluche, perro, 8
+251, mediano, auto, azul, 4, si
+252, grande, pelota, rojo, no
+253, pequeño, muñeca, 88, celeste
+254, mediano, peluche, panda, 12
+255, grande, auto, gris, 4, si
+256, pequeño, pelota, verde, no
+257, mediano, muñeca, 95, rosado
+258, grande, peluche, gato, 6
+259, pequeño, auto, blanco, 4, no
+260, mediano, pelota, naranja, no
+261, grande, muñeca, 80, amarillo
+262, pequeño, peluche, unicornio, 14
+263, mediano, auto, rojo, 4, si
+264, grande, pelota, azul, no
+265, pequeño, muñeca, 92, verde
+266, mediano, peluche, oso, 7
+267, grande, auto, negro, 4, si
+268, pequeño, pelota, blanco, no
+269, mediano, muñeca, 78, morado
+270, grande, peluche, conejo, 10
+271, pequeño, auto, azul, 4, si
+272, mediano, pelota, amarillo, no
+273, grande, muñeca, 85, celeste
+274, pequeño, peluche, perro, 5
+275, mediano, auto, gris, 4, no
+276, grande, pelota, rojo, no
+277, pequeño, muñeca, 82, rosado
+278, mediano, peluche, panda, 9
+279, grande, auto, blanco, 4, si
+280, pequeño, pelota, verde, no
+281, mediano, muñeca, 88, amarillo
+282, grande, peluche, gato, 6
+283, pequeño, auto, negro, 4, si
+284, mediano, pelota, naranja, no
+285, grande, muñeca, 91, morado
+286, pequeño, peluche, unicornio, 13
+287, mediano, auto, rojo, 4, no
+288, grande, pelota, azul, no
+289, pequeño, muñeca, 83, celeste
+290, mediano, peluche, oso, 8
+291, grande, auto, gris, 4, si
+292, pequeño, pelota, blanco, no
+293, mediano, muñeca, 96, verde
+294, grande, peluche, conejo, 4
+295, pequeño, auto, azul, 4, si
+296, mediano, pelota, rojo, no
+297, grande, muñeca, 89, rosado
+298, pequeño, peluche, perro, 7
+299, mediano, auto, negro, 4, si
+300, grande, pelota, amarillo, no
+301, pequeño, muñeca, 60, rosado
+302, mediano, peluche, oso, 18
+303, grande, auto, rojo, 3, si
+304, pequeño, pelota, azul, si
+305, mediano, muñeca, 55, verde
+306, grande, peluche, conejo, 25
+307, pequeño, auto, negro, 2, no
+308, mediano, pelota, amarillo, si
+309, grande, muñeca, 65, morado
+310, pequeño, peluche, perro, 20
+311, mediano, auto, azul, 3, si
+312, grande, pelota, rojo, si
+313, pequeño, muñeca, 50, celeste
+314, mediano, peluche, panda, 17
+315, grande, auto, gris, 1, no
+316, pequeño, pelota, verde, si
+317, mediano, muñeca, 45, rosado
+318, grande, peluche, gato, 19
+319, pequeño, auto, blanco, 3, si
+320, mediano, pelota, naranja, si
+321, grande, muñeca, 87, rosado
+322, pequeño, peluche, oso, 6
+323, mediano, auto, azul, 4, si
+324, grande, pelota, verde, no
+325, pequeño, muñeca, 92, amarillo
+326, mediano, peluche, gato, 8
+327, grande, auto, rojo, 4, si
+328, pequeño, pelota, blanco, no
+329, mediano, muñeca, 85, celeste
+330, grande, peluche, conejo, 10
+331, pequeño, auto, negro, 4, si
+332, mediano, pelota, azul, no
+333, grande, muñeca, 90, morado
+334, pequeño, peluche, unicornio, 12
+335, mediano, auto, gris, 4, si
+336, grande, pelota, rojo, no
+337, pequeño, muñeca, 88, verde
+338, mediano, peluche, panda, 9
+339, grande, auto, blanco, 4, si
+340, pequeño, pelota, naranja, no
