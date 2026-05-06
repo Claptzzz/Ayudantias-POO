@@ -1,3 +1,4 @@
+package logica;
 import java.util.Scanner;
 
 import dominio.*; 

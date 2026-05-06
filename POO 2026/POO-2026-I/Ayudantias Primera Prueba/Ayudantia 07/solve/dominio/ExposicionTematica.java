@@ -1,3 +1,4 @@
+package dominio;
 public class ExposicionTematica extends Exposicion{
 	private String palabraClave;
 	private String editorial;

@@ -1,3 +1,4 @@
+package dominio;
 public abstract class Pieza {
 	protected String codigo;
 	protected String nombre;

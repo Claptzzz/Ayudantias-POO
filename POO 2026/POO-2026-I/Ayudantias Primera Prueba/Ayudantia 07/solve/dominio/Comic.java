@@ -1,3 +1,4 @@
+package dominio;
 public class Comic extends Pieza {
 	private String editorial;
 	private int numEdicion;

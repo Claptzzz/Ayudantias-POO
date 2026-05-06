@@ -1,3 +1,4 @@
+package dominio;
 public class ExposicionRareza extends Exposicion {
 	private int rarezaMinima;
 	private int numEdicion;

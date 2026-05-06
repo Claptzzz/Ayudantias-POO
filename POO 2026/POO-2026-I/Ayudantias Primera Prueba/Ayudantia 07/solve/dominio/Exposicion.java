@@ -1,3 +1,4 @@
+package dominio;
 public abstract class Exposicion {
 	protected String nombre;
 	protected int capMaxima;

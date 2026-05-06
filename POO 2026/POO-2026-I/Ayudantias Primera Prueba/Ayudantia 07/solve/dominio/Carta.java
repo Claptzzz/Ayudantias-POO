@@ -1,3 +1,4 @@
+package dominio;
 public class Carta extends Pieza {
 	private String juego;
 	private int nivelRareza;
