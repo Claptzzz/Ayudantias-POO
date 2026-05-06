@@ -1,0 +1,41 @@
+COMIC;CM019;Doctor Strange #14;1974;650.00;Marvel;1
+CARTA;C037;Lotus Petal;1997;65.40;Magic: The Gathering;6
+COMIC;CM028;Spawn #50;1992;180.00;Image Comics;2
+CARTA;C002;Charizard Holo;1999;450.75;Pokemon;9
+COMIC;CM006;Wonder Woman #184;1942;35000.00;DC Comics;1
+CARTA;C034;Blue-Eyes White Dragon;2002;750.25;Yu-Gi-Oh!;9
+COMIC;CM025;Spider-Man #300;2016;125.00;Marvel;3
+CARTA;C041;Rayquaza Gold Star;2005;1250.00;Pokemon;10
+COMIC;CM031;Sandman #8;1989;280.00;Vertigo;2
+CARTA;C005;Mago Oscuro;2004;45.80;Yu-Gi-Oh!;6
+COMIC;CM004;Superman #233;1939;500000.00;DC Comics;1
+CARTA;C020;Mox Ruby;1993;4500.00;Magic: The Gathering;9
+COMIC;CM032;Hellboy #25;1994;95.00;Dark Horse Comics;3
+CARTA;C024;Mewtwo Base Set;1998;180.45;Pokemon;8
+COMIC;CM027;X-Men #141;1963;8000.00;Marvel;1
+CARTA;C039;Exodia the Forbidden One;2003;320.60;Yu-Gi-Oh!;7
+COMIC;CM008;Flash #125;1940;45000.00;DC Comics;1
+CARTA;C011;Ancestral Recall;1993;8500.00;Magic: The Gathering;10
+COMIC;CM033;Saga #12;2012;85.00;Image Comics;3
+CARTA;C007;Blastoise Base Set;1998;200.30;Pokemon;8
+COMIC;CM013;Fantastic Four #48;1961;12000.00;Marvel;1
+CARTA;C019;Mirror Force;2005;38.25;Yu-Gi-Oh!;7
+COMIC;CM030;Teenage Mutant Ninja Turtles #19;1984;4500.00;Mirage Studios;1
+CARTA;C003;Black Lotus;1993;15000.00;Magic: The Gathering;10
+COMIC;CM017;Avengers #57;1963;3200.00;Marvel;1
+CARTA;C036;Pikachu Promo;2000;425.75;Pokemon;8
+COMIC;CM026;Batman #232;1940;350000.00;DC Comics;1
+CARTA;C042;Red-Eyes Black Dragon;2004;180.45;Yu-Gi-Oh!;7
+COMIC;CM029;The Dark Knight Returns #4;1986;450.00;DC Comics;2
+CARTA;C032;Force of Will;1996;85.30;Magic: The Gathering;7
+COMIC;CM001;Spider-Man #87;1963;8500.00;Marvel;1
+CARTA;C038;Venusaur Base Set;1998;165.80;Pokemon;8
+COMIC;CM024;Walking Dead #193;2003;2200.00;Image Comics;1
+CARTA;C035;Time Walk;1993;12000.00;Magic: The Gathering;10
+COMIC;CM010;Green Lantern #76;1940;15000.00;DC Comics;1
+CARTA;C009;Mew Ancient;2001;320.75;Pokemon;9
+COMIC;CM009;Thor #337;1962;2100.00;Marvel;1
+CARTA;C040;Mox Sapphire;1993;5200.00;Magic: The Gathering;9
+COMIC;CM034;The Walking Dead #100;2005;750.00;Image Comics;4
+CARTA;C033;Charizard GX;2017;890.50;Pokemon;9
+CARTA;C043;Mana Crypt;1995;380.90;Magic: The Gathering;8
