@@ -1,0 +1,18 @@
+1,Gato programando concentrado,Si
+2,Profesor disfrazado de Jesus abrazando a estudiante,No
+3,Hombre lanzando tomates,No
+4,El joker diciendo "Bravo administrador excelente trabajo",Si
+5,Publicidad de casino online,No
+6,Homero asustandose por una pala,Si
+7,Pistolas,No
+8,Gato que dice ".....glup",Si
+9,Insulto al ayudante,No
+10,Perro triste,Si
+11,Emoji enojado,Si
+12,"Who is this",No
+13,Perro abrazando a otro,Si
+14,Spam de criptomonedas,No
+15,Taza de cafe llorando,Si
+16,Broma de mal gusto,No
+17,Rana saltando riendose,Si
+18,Link a una pagina dudosa,No
