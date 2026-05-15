@@ -12,7 +12,7 @@
 
 Los estudiantes de Proyecto Integrador de Programacion Avanzada estan realizando un juego donde la magia es la que domina sobre todas las capacidades. En este mundo, cada persona considerada un "mago" tiene un repertorio de uno a muchos hechizos, estos hechizos contienen diferentes propiedades dependiendo del elemento al que pertenecen.
 
-Existen elementos tales como Fuego, Roca, Planta, y Agua.
+Existen elementos tales como Fuego, Tierra, Planta, y Agua.
 
 ## Archivos
 
@@ -55,7 +55,7 @@ Ascuas;Fuego;77;5
 `NombreHechizo;Tipo;Daño;...`
 
 * Para Fuego --> `NombreHechizo;Tipo;Daño;DuracionQuemadura`
-* Para Roca --> `NombreHechizo;Tipo;Daño;MejoraDefensa`
+* Para Tierra --> `NombreHechizo;Tipo;Daño;MejoraDefensa`
 * Para Planta --> `NombreHechizo;Tipo;Daño;DuracionStun,CantPlantas`
 * Para Agua --> `NombreHechizo;Tipo;Daño;CantidadHeal,PresionDelAgua`
 
@@ -94,7 +94,7 @@ Debe permitir las siguientes opciones:
 Para cada tipo de hechizo existe un metodo diferente para calcular su puntuacion.
 
 * Para Fuego --> Puntaje = Daño*DuracionQuemadura
-* Para Roca --> Puntaje = (Daño*MejoraDefensa)/2
+* Para Tierra --> Puntaje = (Daño*MejoraDefensa)/2
 * Para Planta --> Puntaje = Daño + (DuracionStun * CantPlanta)
 * Para Agua --> Puntaje = (Daño+CantidadHeal+PresionDeAgua)*2
 
@@ -135,7 +135,7 @@ Fecha límite -> 05/06/2026
 ---
 
 ### 1. Persistencia de Datos y Archivos (20 puntos)
-* **[8 pts] Lectura inicial:** Carga correctamente los datos de `Magos.txt` y `Hechizos.txt` al iniciar el programa. Procesa adecuadamente las líneas con múltiples hechizos y los diferentes parámetros según el tipo de elemento (Fuego, Roca, Planta, Agua) sin errores de parseo.
+* **[8 pts] Lectura inicial:** Carga correctamente los datos de `Magos.txt` y `Hechizos.txt` al iniciar el programa. Procesa adecuadamente las líneas con múltiples hechizos y los diferentes parámetros según el tipo de elemento (Fuego, Tierra, Planta, Agua) sin errores de parseo.
 * **[6 pts] Actualización de Archivos:** Las operaciones de agregar, modificar o eliminar (CRUD) se reflejan correctamente en los archivos `.txt` correspondientes. Los cambios persisten tras cerrar la aplicación.
 * **[6 pts] Formato de Salida:** Al sobrescribir los archivos, se mantiene estrictamente el formato original (`Nombre;Dato1|Dato2` o `Nombre;Tipo;...`), asegurando la integridad de los datos para futuras ejecuciones.
 
@@ -148,7 +148,7 @@ Fecha límite -> 05/06/2026
 * **[15 pts] Panel Administrador (CRUD):** Implementa funcionalmente las 6 opciones (Agregar, Modificar, Eliminar tanto para Magos como Hechizos). Las modificaciones en un hechizo se ven reflejadas correctamente en los magos que lo poseen.
 * **[10 pts] Cálculo de Puntuaciones:** Implementa con exactitud las fórmulas de puntuación para cada tipo de elemento:
     * **Fuego:** Daño * DuracionQuemadura
-    * **Roca:** (Daño * MejoraDefensa) / 2
+    * **Tierra:** (Daño * MejoraDefensa) / 2
     * **Planta:** Daño + (DuracionStun * CantPlanta)
     * **Agua:** (Daño + CantidadHeal + PresionDeAgua) * 2
 * **[15 pts] Panel Analista (Reportes):** Genera correctamente los listados y rankings (Top 10 Hechizos, Top 3 Magos) basados en las puntuaciones calculadas. Los datos se muestran de forma clara y ordenada.
