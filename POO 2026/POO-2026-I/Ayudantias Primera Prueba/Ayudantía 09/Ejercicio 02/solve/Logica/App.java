@@ -9,17 +9,17 @@ public class App {
 
 	public static void main(String[] args) {
 		try {
-			leerArchivo();
 			s = new SistemaImpl();
+			leerArchivo();
 			s.visitarCelus();
 			s.resultados();
-		} catch (FileNotFoundException e) {
+		}catch (FileNotFoundException e) {
 			System.out.println("No se encontró el archivo");
-		}
+}
 	}
 
 	private static void leerArchivo() throws FileNotFoundException {
-		File arch = new File("ventas.txt");
+		File arch = new File("Ayudantía 09/ventas.txt");
 		Scanner lector = new Scanner(arch);
 		while (lector.hasNextLine()) {
 			String linea = lector.nextLine();
