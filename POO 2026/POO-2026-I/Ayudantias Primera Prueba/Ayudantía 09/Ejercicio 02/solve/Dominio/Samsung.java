@@ -5,6 +5,7 @@ public class Samsung extends Celular{
 	public Samsung(String color, String pais, int ventas, float rating) {
 		super(color, pais, ventas, rating);
 	}
+	@Override
 	
 	public void aceptar(CeluVisitor CV) {
 		CV.visitar(this);
