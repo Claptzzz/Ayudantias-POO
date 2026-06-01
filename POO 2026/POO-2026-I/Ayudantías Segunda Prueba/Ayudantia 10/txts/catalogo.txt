@@ -1,0 +1,49 @@
+pelicula;Interstellar;Ciencia Ficcion;169;4.8
+pelicula;The Dark Knight;Accion;152;4.9
+serie;Breaking Bad;Drama;62;5.0
+serie;Stranger Things;Ciencia Ficcion;34;4.7
+pelicula;Shrek;Comedia;90;4.5
+serie;The Office;Comedia;201;4.8
+pelicula;Your Name;Romance;106;4.9
+serie;Arcane;Animacion;9;4.9
+pelicula;Avengers Endgame;Accion;181;4.7
+serie;Dark;Ciencia Ficcion;26;4.8
+pelicula;Inception;Ciencia Ficcion;148;4.8
+pelicula;Titanic;Romance;195;4.4
+serie;Friends;Comedia;236;4.7
+pelicula;Joker;Drama;122;4.6
+serie;Game of Thrones;Fantasia;73;4.5
+pelicula;Spider-Man No Way Home;Accion;148;4.7
+serie;The Witcher;Fantasia;24;4.3
+pelicula;Toy Story;Animacion;81;4.6
+serie;Attack on Titan;Animacion;89;4.9
+pelicula;The Matrix;Ciencia Ficcion;136;4.8
+serie;Wednesday;Misterio;16;4.4
+pelicula;Forrest Gump;Drama;142;4.8
+serie;House of the Dragon;Fantasia;18;4.6
+pelicula;Cars;Animacion;117;4.2
+serie;Brooklyn Nine-Nine;Comedia;153;4.8
+pelicula;The Lion King;Animacion;88;4.7
+serie;Narcos;Drama;30;4.6
+pelicula;Doctor Strange;Accion;115;4.4
+serie;Sherlock;Misterio;13;4.9
+pelicula;Coco;Animacion;105;4.8
+serie;Black Mirror;Ciencia Ficcion;27;4.7
+pelicula;John Wick;Accion;101;4.5
+serie;Peaky Blinders;Drama;36;4.8
+pelicula;Parasite;Drama;132;4.9
+serie;Better Call Saul;Drama;63;4.9
+pelicula;Up;Animacion;96;4.7
+serie;The Mandalorian;Ciencia Ficcion;24;4.8
+pelicula;Gladiator;Accion;155;4.8
+serie;Loki;Ciencia Ficcion;12;4.5
+pelicula;Howls Moving Castle;Fantasia;119;4.8
+serie;One Piece Live Action;Aventura;8;4.6
+pelicula;Spirited Away;Fantasia;125;4.9
+serie;The Boys;Accion;32;4.7
+pelicula;Ready Player One;Ciencia Ficcion;140;4.3
+serie;Money Heist;Drama;41;4.6
+pelicula;Deadpool;Accion;108;4.6
+serie;Avatar The Last Airbender;Animacion;61;4.9
+pelicula;La La Land;Musical;128;4.5
+serie;The Umbrella Academy;Fantasia;30;4.4

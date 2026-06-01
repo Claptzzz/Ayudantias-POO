@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io.*;
+import java.io.*;	
 
 public class App {
 	public static Jugador[] jugadores = new Jugador[100];
