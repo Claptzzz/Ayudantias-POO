@@ -1,0 +1,28 @@
+cancion;Bohemian Rhapsody;Queen;Rock;355;5;false
+cancion;Smells Like Teen Spirit;Nirvana;Rock;301;5;false
+cancion;Money Trees;Kendrick Lamar;Hip-Hop;386;5;true
+cancion;Blinding Lights;The Weeknd;Pop;200;4;false
+cancion;Bad Guy;Billie Eilish;Pop;194;4;true
+cancion;HUMBLE;Kendrick Lamar;Hip-Hop;177;5;true
+cancion;Shape of You;Ed Sheeran;Pop;233;3;false
+cancion;Wonderwall;Oasis;Rock;258;4;false
+cancion;Get Lucky;Daft Punk;Electronica;369;5;false
+cancion;Levitating;Dua Lipa;Pop;203;4;false
+cancion;Toxicity;System Of A Down;Rock;213;5;true
+cancion;Despacito;Luis Fonsi;Reggaeton;229;3;false
+cancion;Yo Perreo Sola;Bad Bunny;Reggaeton;170;4;true
+cancion;Mr Brightside;The Killers;Rock;222;5;false
+cancion;Take On Me;a-ha;Pop;225;4;false
+cancion;De Musica Ligera;Soda Stereo;Rock;213;5;false
+cancion;Hotline Bling;Drake;Hip-Hop;267;3;true
+cancion;Strobe;Deadmau5;Electronica;634;5;false
+cancion;Pumped Up Kicks;Foster The People;Indie;239;4;true
+cancion;Watermelon Sugar;Harry Styles;Pop;174;3;false
+podcast;Tomas va a morir;Estudios Neverland;Comedia;420;4;true
+podcast;Stuff You Should Know;Josh and Chuck;Educacion;1800;5;false
+podcast;The Daily;The New York Times;Noticias;2100;4;false
+podcast;Radio Ambulante;NPR;Historia;320;5;false
+podcast;Hardcore History;Dan Carlin;Historia;90;5;false
+podcast;Caso 63;Spotify Studios;Ficcion;30;5;false
+podcast;Comedy Bang Bang;Earwolf;Comedia;850;3;true
+podcast;Lex Fridman Podcast;Lex Fridman;Tecnologia;450;4;false

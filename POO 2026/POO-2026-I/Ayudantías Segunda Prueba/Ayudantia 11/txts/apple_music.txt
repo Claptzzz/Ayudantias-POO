@@ -1,0 +1,11 @@
+[SONG]|Hotel California|Eagles|Classic Rock|6.5|5|0
+[SONG]|Lose Yourself|Eminem|Rap|5.2|5|1
+[SONG]|Stairway to Heaven|Led Zeppelin|Rock|8.0|5|0
+[SONG]|As It Was|Harry Styles|Pop|2.8|4|0
+[SONG]|God's Plan|Drake|Hip-Hop|3.3|3|1
+[SONG]|Believer|Imagine Dragons|Pop|3.4|4|0
+[SONG]|Lo Vas a Olvidar|Billie Eilish|Pop|4.0|4|0
+[SONG]|Numb|Linkin Park|Rock|3.1|5|0
+[EPISODE]|Serial|This American Life|Crime|450|5|1
+[EPISODE]|99 Percent Invisible|Roman Mars|Diseno|550|5|0
+[EPISODE]|The Joe Rogan Experience|Joe Rogan|Entrevista|2200|3|1
