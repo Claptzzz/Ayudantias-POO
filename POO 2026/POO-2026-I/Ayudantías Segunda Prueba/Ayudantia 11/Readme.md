@@ -1,7 +1,5 @@
 # Ayudantía 11 — Patrones de Diseño: Spotify
 
-<img align="right" width=200px alt="Spotify" src="https://media.tenor.com/3rB6dzj-fGsAAAAi/spotify-music.gif">
-
 Spotify se encuentra en una crisis, un ingeniero novato subió su código a la plataforma sin darse cuenta que sobreescribió todo lo que había en ella. Luego de despedirlo, te contrataron a ti, la única persona capaz de solucionar el problema.
 
 El código que subió el novato es completamente funcional, pero es un desastre arquitectónicamente. Tiene todo mezclado en unas pocas clases, está lleno de if/else y variables auxiliares, y si modificas una pequeña parte, todo puede explotar...
