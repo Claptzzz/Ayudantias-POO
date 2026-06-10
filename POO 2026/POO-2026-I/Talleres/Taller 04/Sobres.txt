@@ -1,0 +1,30 @@
+Mega Charizard-Ex;5;Pokemon;280;3
+Pikachu;1;Pokemon;60;1
+Greninja-Ex;4;Pokemon;200;2
+Snorlax;2;Pokemon;120;3
+Gardevoir-Ex;4;Pokemon;190;2
+Bulbasaur;1;Pokemon;50;1
+Mega Lucario-Ex;5;Pokemon;260;3
+Eevee;1;Pokemon;40;1
+Dragonite-Ex;4;Pokemon;220;4
+Gengar;3;Pokemon;130;2
+Charmander;1;Pokemon;30;1
+Mewtwo-Ex;5;Pokemon;210;2
+Lapras;2;Pokemon;110;3
+Sylveon-Ex;4;Pokemon;180;2
+Premium Power Pro;2;Item;30
+Rare Candy;3;Item;50
+Potion;1;Item;10
+Ultra Ball;3;Item;40
+Nest Ball;2;Item;25
+Switch;1;Item;15
+Lillie's Determination;2;Supporter;3
+Professor's Research;4;Supporter;5
+Cynthia's Ambition;5;Supporter;6
+Boss's Orders;3;Supporter;4
+Hop;1;Supporter;2
+Basic Energy;1;Energy;Fight
+Fire Energy;1;Energy;Fire
+Water Energy;1;Energy;Water
+Lightning Energy;1;Energy;Lightning
+Double Turbo Energy;3;Energy;Colorless
