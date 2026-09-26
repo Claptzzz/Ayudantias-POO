@@ -1,0 +1,11 @@
+ICPC-2025
+3
+Os-Poropos;A;B;D
+MartinDxNico;A;C;D;E
+Empanada de Choclo;A;B;C;D;E;F;G
+ICPC-2026
+4
+Os-Poropos;A;B;C;D;F
+Empanada de Choclo;A;B;D;E;F
+Los Kernel Panic
+MartinDxNico;B

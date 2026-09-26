@@ -1,0 +1,12 @@
+Camila;Araya;22.222.222-1;4
+Diego;Castillo;22.111.111-1;4
+Javiera;Munoz;22.333.333-1;2
+Nicolas;Rojas;22.222.222-2;8
+Martin;Droguett;22.111.111-2;6
+Fernanda;Tapia;22.333.333-2;6
+Ignacio;Vega;22.222.222-3;10
+Sofia;Pizarro;22.111.111-3;8
+Tomas;Carvajal;22.333.333-3;10
+Valentina;Rivera;21.444.444-4;5
+Benjamin;Olivares;21.555.555-5;7
+Pedro;Soto;20.999.999-9;3

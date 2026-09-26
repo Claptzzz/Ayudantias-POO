@@ -1,0 +1,4 @@
+Os-Poropos;22.222.222-1;22.111.111-1;22.333.333-1;Universidad Catolica del Norte
+MartinDxNico;22.222.222-2;22.111.111-2;22.333.333-2;Universidad Catolica del Norte
+Empanada de Choclo;22.222.222-3;22.111.111-3;22.333.333-3;Universidad Catolica del Norte
+Los Kernel Panic;21.444.444-4;21.555.555-5;21.666.666-6;Universidad de La Serena
