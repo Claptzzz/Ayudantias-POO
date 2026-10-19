@@ -1,0 +1,11 @@
+Koshao;7823
+Clapt;7600
+Churrasquita;6767
+ElConde;5120
+SinPuntaje;
+MomiaFeliz;2990
+Fantasmita;abc
+Negativo;-50
+;1200
+Dos;Puntos;100
+Calabacin;4580
