@@ -1,0 +1,14 @@
+productora;Girasol;50;7;25;24
+productora;Seta solar;25;7;15;20
+productora;Birasol;150;50;50;30
+ataque;Lanzaguisantes;100;7;20;disparo simple
+ataque;Repetidora;200;7;40;dispara dos guisantes seguidos
+ataque;Lanzaguisantes de hielo;175;7;20;congela y ralentiza al zombie
+ataque;Cactus;125;7;20;alcanza a zombis con globo
+defensa;Nuez;50;30;400;ninguna
+defensa;Nuez cascarrabias;125;50;600;no se puede saltar por encima
+defensa;Calabaza;125;30;400;se puede colocar encima de otra planta
+unuso;Patatapum;25;30;90;1 casilla
+unuso;Petacereza;150;50;90;3x3 casillas
+unuso;Jalapeño;125;50;120;1 línea completa
+unuso;Apisonaflor;50;30;120;1 casilla
